@@ -1,7 +1,12 @@
 * {
 	font-family: arial;
-	font-size: 13px;
-	line-height: 19.5px;
+}
+p {
+	font-size: 15px;
+	line-height: 23px;
+}
+a {
+	color: #3070d9;
 }
 .mainPage {
 	margin: auto;
